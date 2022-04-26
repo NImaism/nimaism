@@ -36,14 +36,10 @@ Here are some ideas to get you started:
 - Programming Python & Lua
 
 
-<h2> Connect with me </h2>
-<a href = 'https://www.instagram.com/nima._.ism/'> <img width = '32px' align= 'center' src="https://user-images.githubusercontent.com/24874033/39674914-011fd850-5171-11e8-82b5-01e8613114cf.png"/></a> 
-<a href = 'https://www.github.com/nimaism'> <img width = '32px' align= 'center' src="https://cdn-icons-png.flaticon.com/512/38/38401.png"/></a>
 
 <br>
 <br>
 
-[![NImaism's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nimaism&theme=tokyonight)](https://git.io/praveenscience)
 
 | ![NImaism's github stats](https://github-readme-stats.vercel.app/api?username=nimaism&show_icons=true&theme=tokyonight) | ![NImaism GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nimaism&theme=tokyonight) |
 | --- | --- |
