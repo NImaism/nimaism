@@ -40,7 +40,12 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-
 | ![NImaism's github stats](https://github-readme-stats.vercel.app/api?username=nimaism&show_icons=true&theme=tokyonight) | ![NImaism GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nimaism&theme=tokyonight) |
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nimaism&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=nimaism&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+
+
+<h2> Discord </h2>
+
+
+![](https://discord.c99.nl/widget/theme-2/841250866895781918.png)
