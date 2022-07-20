@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 
 - 🔭 I’m That I’m
   
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently learning Golang
   
 - 👯 I’m looking to collaborate on new Statup projects and ideas
   
-- 💬 Ask me about Python & Lua.
+- 💬 Ask me about Python & Lua & Golang.
   
 - ⚡ Fun fact: pass!
 
