@@ -69,12 +69,6 @@
 </div>
 
 <br/>
-
-<div align="center"> 
-    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=nimaism&custom_title=sklyerx%27s%20Contribution%20Graph&bg_color=171717&color=5459a7&line=FFFFFF&point=5459a7&hide_border=F84C4C&count_private=falae"  alt=""/>     </a>
-</div>
-
-<br/>
 <br>
 
 <h1 align="center">
