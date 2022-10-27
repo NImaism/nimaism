@@ -71,12 +71,6 @@
 <br/>
 <br>
 
-<h1 align="center">
-    Donate ?!
-</h1>
-<div align="center">
-https://nimaism.ir
-</div>
 
 <br>
 
