@@ -7,7 +7,7 @@
 
 
 <div align="center">
-<h4 align="center"><samp> Goalng Developer -  Web Developer / Discord Bot Developer</samp></h4>
+<h4 align="center"><samp> Goalng Developer -  BackEnd Developer / Discord Bot Developer</samp></h4>
 </div>
 
 <br>
