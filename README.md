@@ -76,7 +76,7 @@
 </h1>
 
 <div align="center"> 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=s4k18lc8etzm3psvkik6xq6k0)
+        <img align="center" src="https://spotify-recently-played-readme.vercel.app/api?user=s4k18lc8etzm3psvkik6xq6k0"  alt=""/>
 </div>
 
 
