@@ -71,9 +71,17 @@
 <br/>
 <br>
 
+<h1 align="center">
+    Spotify Recently Played !
+</h1>
+
+<div align="center"> 
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=s4k18lc8etzm3psvkik6xq6k0)
+</div>
+
 
 <br>
-
+<br>
 <h1 align="center">
      Contact To Me
 </h1>
