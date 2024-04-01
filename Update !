@@ -1,13 +1,11 @@
 
 <div align="center">
-<h2>Hi, I'm Nima Gholami
-<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/76/waving-hand-sign_emoji-modifier-fitzpatrick-type-1-2_1f44b-1f3fb_1f3fb.png" width="30">
-</h2>
+<h2>Hi, I'm Nima Gholami </h2>
 </div>
 
 
 <div align="center">
-<h4 align="center"><samp> Goalng Developer -  BackEnd Developer / Discord Bot Developer</samp></h4>
+<h4 align="center"><samp> Backend Developer - Bug Hunter</samp></h4>
 </div>
 
 <br>
@@ -24,12 +22,13 @@
 </h1>
 
 <div align="center">
-    <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=5459a7" alt="Go" style="border-radius:15px"/>
-    <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=5459a7" alt="Lua" style="border-radius:15px"/>
-    <img src="https://img.shields.io/badge/python-171717?style=for-the-badge&logo=python&logoColor=5459a7" alt="Python" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=5459a7&color=171717" alt="Go" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=5459a7&color=171717" alt="Lua" style="border-radius:15px"/>
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Javascript&color=171717&logo=Javascript&logoColor=5459a7&label=" alt="Javascript" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/python-171717?style=for-the-badge&logo=python&logoColor=5459a7&color=171717" alt="Python" style="border-radius:15px"/>
     <br/>
-    <img src="https://img.shields.io/badge/HTML5-171717?style=for-the-badge&logo=html5&logoColor=5459a7" alt="HTML5" style="border-radius:15px"/>
-    <img src="https://img.shields.io/badge/CSS-171717?style=for-the-badge&logo=css3&logoColor=5459a7" alt="CSS" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/HTML5-171717?style=for-the-badge&logo=html5&logoColor=5459a7&color=171717" alt="HTML5" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/CSS-171717?style=for-the-badge&logo=css3&logoColor=5459a7&color=171717" alt="CSS" style="border-radius:15px"/>
 </div>
 
 <br><br>
@@ -39,11 +38,13 @@
 </h1>
 
 <div align="center">
-    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=5459a7" alt="Docker" style="border-radius:15px"/>
-    <img src="https://img.shields.io/badge/Discord.py-171717.svg?style=for-the-badge&logo=discord&logoColor=5459a7" alt="Discord.py" style="border-radius:15px"/> 
+    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&color=171717&logo=docker&logoColor=5459a7" alt="Docker" style="border-radius:15px"/>
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=NGINX&color=171717&logo=NGINX&logoColor=5459a7&label=" alt="Nginix" style="border-radius:15px"/>
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Apache&color=171717&logo=Apache&logoColor=5459a7&label=" alt="Apache" style="border-radius:15px"/>
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Traefik&color=171717&logo=Traefik+Proxy&logoColor=5459a7&label=" alt="Traefik" style="border-radius:15px"/>
     <br/>
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Gin&color=171717&logo=gin&logoColor=5459a7&label=" alt="Gin" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/git-171717.svg?style=for-the-badge&logo=git&logoColor=5459a7" alt="Git" style="border-radius:15px"/>
-    <img src="https://img.shields.io/badge/Markdown-171717?style=for-the-badge&logo=markdown&logoColor=5459a7" alt="Markdown" style="border-radius:15px"/>
 </div>
 
 <br><br>
