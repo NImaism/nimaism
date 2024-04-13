@@ -71,14 +71,15 @@
 
 <br/>
 <br>
-
-
-<br>
-<br>
+   
 <h1 align="center">
      Contact To Me
 </h1>
 
 <div align="center"> 
     <img align="center" src="https://discord.c99.nl/widget/theme-1/841250866895781918.png" alt=""/>
+</div>
+<br/>
+<div align="center">
+       <img src="https://count.getloli.com/get/@:nimaism"/>
 </div>
