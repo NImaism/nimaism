@@ -11,7 +11,7 @@
 <br>
 
 <p align="center">
-    <a href="https://instagram.com/nima._.ism"><img src="https://img.shields.io/badge/Instagram-171717?style=for-the-badge&logo=instagram&logoColor=5459a7" style="border-radius:15px" alt="Instagram"></a>
+    <a href="https://instagram.com/youngafru"><img src="https://img.shields.io/badge/Instagram-171717?style=for-the-badge&logo=instagram&logoColor=5459a7" style="border-radius:15px" alt="Instagram"></a>
     <a href="https://discord.gg/mYPyceJ7WX"><img src="https://img.shields.io/badge/Discord-171717?style=for-the-badge&logo=discord&logoColor=5459a7" style="border-radius:15px" alt="Discord"></a>
 </p>
 
