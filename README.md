@@ -77,7 +77,7 @@
 </h1>
 
 <div align="center"> 
-    <img align="center" src="https://discord.c99.nl/widget/theme-1/841250866895781918.png" alt=""/>
+<a href="https://t.me/youngafru">Telegram</a>
 </div>
 <br/>
 <br>
